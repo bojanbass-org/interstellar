@@ -1,6 +1,7 @@
 {
-  "todayMessage": "Today is {ts, date, ::yyyyMMdd}",
-  "welcome": "Welcome to Catbox",
-  "header": "Awesome header",
-  "test": "Test"
+    "cat": "cat",
+    "todayMessage": "Today is {ts, date, ::yyyyMMdd}",
+    "welcome": "Welcome to Catbox",
+    "header": "Awesome header",
+    "test": "Test"
 }
